@@ -48,3 +48,7 @@ button {
    text-transform: uppercase;
    border-radius: 40px;
 }
+#score {
+   margin: auto;
+   margin-top: 20px;
+}
