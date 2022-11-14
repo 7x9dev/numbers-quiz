@@ -1,0 +1,46 @@
+body {
+   background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-height: 100vh;
+   margin: 0;
+   font-family: 'Work Sans', sans-serif;
+}
+h1 {
+   font-size: 36px;
+   margin: 0;
+}
+p {
+   font-size: 16px;
+   line-height: 1.6;
+   margin-bottom: 30px;
+}
+form {
+   background-color: #fff;
+   display: flex;
+   flex-wrap: wrap;
+   width: 600px;
+   padding: 70px 100px;
+}
+label {
+   font-size: 17px;
+   margin-right: 60px;
+}
+.question {
+   display: flex;
+   margin-bottom: 40px;
+}
+.answer {
+   margin-right: 30px;
+}
+button {
+   background-color: #fed766;
+   color: #000;
+   border: none;
+   width: 100%;
+   padding: 15px;
+   font-size: 16px;
+   font-weight: bold;
+   border-radius: 40px;
+}
